@@ -1,0 +1,16 @@
+{
+  "name": "avaliacaonojejs",
+  "version": "1.0.0",
+  "description": "AvaliacaoNojejs Jovem-Programador Prova",
+  "dev": "node --watch index.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "jest": "^29.7.0"
+  }
+}
